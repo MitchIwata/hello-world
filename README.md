@@ -1,2 +1,3 @@
 # hello-world
-an awesome repo
+
+mitch is writing about this README of his hello-world
